@@ -27,6 +27,7 @@ print(thirtyOne);
 print(goodTime);
 print(thisMorning);
 print(addUp);
+print("$spa");
 print("sorry, but you just lost the game$spa$D");
 
 }
