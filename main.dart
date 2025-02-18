@@ -14,12 +14,12 @@ void main() {
   String S = "Heute";
   String spa = " ";
 
+  int thirtyOne = a + seven;
+  int addUp = d + seven + twelve + a + 105;
   String goodDay = "$dgStr $dayStr";
   String goodDayWorld = "$dgStr $dayStr $worldStr$D";
-  int thirtyOne = a + seven;
   String goodTime = "$c $timeStr$D";
   String thisMorning = "$S $morning$D";
-  int addUp = d + seven + twelve + a + 105;
 
 print(goodDay);
 print(goodDayWorld);
